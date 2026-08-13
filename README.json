@@ -1,0 +1,370 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gpt4-pdf-chatbot-langchain",
+          "description": "GPT4 & LangChain Chatbot for large PDF docs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-03-27T16:04:05Z",
+            "owner": "mayooear",
+            "repo": "ai-pdf-chatbot-langchain",
+            "stars": 16595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openplayground",
+          "description": "An LLM playground you can run on your laptop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T04:56:49Z",
+            "owner": "nat",
+            "repo": "openplayground",
+            "stars": 6352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "helicone",
+          "description": "GPT4 Monitoring and Observability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T01:10:06Z",
+            "owner": "Helicone",
+            "repo": "helicone",
+            "stars": 6060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart Connections",
+          "description": "Chat with the notes in your Obsidian vault using OpenAI GPT-4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T20:49:55Z",
+            "owner": "brianpetro",
+            "repo": "obsidian-smart-connections",
+            "stars": 5358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wolverine",
+          "description": "Run Python scripts, and when they crash, GPT-4 edits them and explains what went wrong.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-08T07:33:01Z",
+            "owner": "biobootloader",
+            "repo": "wolverine",
+            "stars": 5075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chatgpt-wrapper",
+          "description": "API for interacting with ChatGPT and GPT4 using Python and from Shell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T17:59:46Z",
+            "owner": "llm-workflow-engine",
+            "repo": "llm-workflow-engine",
+            "stars": 3720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anse",
+          "description": "Supercharged experience for ChatGPT, DALL-E, and Stable Diffusion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-12T02:21:03Z",
+            "owner": "anse-app",
+            "repo": "anse",
+            "stars": 1975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DemoGPT",
+          "description": "DemoGPT enables you to create quick demos by just using prompts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-01T12:30:12Z",
+            "owner": "melih-unsal",
+            "repo": "DemoGPT",
+            "stars": 1904
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPTDiscord",
+          "description": "A full OpenAI integration for Discord with multi-modal chat and infinite-length conversations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T23:33:50Z",
+            "owner": "Kav-K",
+            "repo": "GPTDiscord",
+            "stars": 1855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gpt-voice-conversation-chatbot",
+          "description": "Conversational GPT-4 bot that has memory, ElevenLabs/Google TTS, voice-chat/CLI options, customization, and is not token-limited.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-05T19:09:15Z",
+            "owner": "Adri6336",
+            "repo": "gpt-voice-conversation-chatbot",
+            "stars": 302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "datasetGPT",
+          "description": "A command-line interface to generate textual and conversational datasets with LLMs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-25T16:39:10Z",
+            "owner": "radi-cho",
+            "repo": "datasetGPT",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPT-4 Unlimited Tools",
+          "description": "GPT-4 with internet and command line access.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-23T10:56:19Z",
+            "owner": "d3n7",
+            "repo": "GPT-4-Unlimited-Tools",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPT-Prompter",
+          "description": "Browser extension to get a fast prompt for OpenAI's GPT-3, GPT-4 & ChatGPT API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-06-12T10:59:21Z",
+            "owner": "giosilvi",
+            "repo": "GPT-Prompter",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pair",
+          "description": "An iterative, stateful chat-like interface for programmers to pair programming with GPT-4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-29T02:08:27Z",
+            "owner": "jiggy-ai",
+            "repo": "pair",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "doctorgpt",
+          "description": "Production log error diagnosing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-05-10T01:20:55Z",
+            "owner": "ingyamilmolinar",
+            "repo": "doctorgpt",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatGPTify",
+          "description": "Spotify playlist generator via ChatGPT (and GPT-4).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-20T15:23:42Z",
+            "owner": "idilsulo",
+            "repo": "ChatGPTify",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "promptlib",
+          "description": "A collection of prompts for use with GPT-4 via ChatGPT, OpenAI API w/ Gradio frontend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-08-08T05:14:32Z",
+            "owner": "jmpaz",
+            "repo": "promptlib",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gpt-cli",
+          "description": "Access GPT3, ChatGPT, and GPT4 straight from your terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-03-22T15:52:20Z",
+            "owner": "CristiVlad25",
+            "repo": "gpt-cli",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "botbots",
+          "description": "A dataset of dialogues between two instances with system messages written by GPT-4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-01T12:52:44Z",
+            "owner": "radi-cho",
+            "repo": "botbots",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smarty GPT",
+          "description": "a wrapper of prompts and contexts that supports several models, including GPT4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-06-11T14:12:36Z",
+            "owner": "citiususc",
+            "repo": "smarty-gpt",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StockGPT",
+          "description": "Primitive technique to predict stock movements with GPT-4 or 3.5.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-24T03:08:59Z",
+            "owner": "d3n7",
+            "repo": "StockGPT",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MusicGPT",
+          "description": "Make polyphonic music in the form of MIDI files with GPT-4 or 3.5.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-21T13:30:39Z",
+            "owner": "d3n7",
+            "repo": "GPT-4-To-MIDI",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPTBot",
+          "description": "A fully serverless Slack bot with GPT-4 support and full conversation mode.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-01-10T13:38:03Z",
+            "owner": "Electric-Hydrogen",
+            "repo": "GPTBot",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conference scheduling",
+          "description": "using GPT-4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-09T10:34:34Z",
+            "owner": "stephanj",
+            "repo": "Scheduling-using-GPT4",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haddock",
+          "description": "Search GPT-4 generated scripts for gaming engines - Roblox, Unity, and Unreal.",
+          "children": []
+        }
+      ],
+      "title": "Open-source projects"
+    },
+    {
+      "description": "Contributions are always welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:17:19.776Z",
+    "original_repository": "radi-cho/awesome-gpt4",
+    "original_repository_sha": "777f9702b87600b0cfeb3d83a7e5d4a82f85a117",
+    "enhanced_repository": "enhansome/enhansome-gpt4",
+    "enhanced_repository_description": null,
+    "title": "Awesome GPT-4 with stars"
+  }
+}

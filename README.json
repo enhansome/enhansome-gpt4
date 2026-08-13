@@ -47,7 +47,7 @@
             "last_commit": "2026-07-25T01:10:06Z",
             "owner": "Helicone",
             "repo": "helicone",
-            "stars": 6060
+            "stars": 6063
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2025-05-12T02:21:03Z",
             "owner": "anse-app",
             "repo": "anse",
-            "stars": 1975
+            "stars": 1974
           }
         },
         {
@@ -360,7 +360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:17:19.776Z",
+    "last_updated": "2026-08-13T12:35:38.392Z",
     "original_repository": "radi-cho/awesome-gpt4",
     "original_repository_sha": "777f9702b87600b0cfeb3d83a7e5d4a82f85a117",
     "enhanced_repository": "enhansome/enhansome-gpt4",

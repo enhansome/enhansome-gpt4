@@ -19,7 +19,7 @@
             "last_commit": "2026-03-27T16:04:05Z",
             "owner": "mayooear",
             "repo": "ai-pdf-chatbot-langchain",
-            "stars": 16598
+            "stars": 16595
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-07-25T01:10:06Z",
             "owner": "Helicone",
             "repo": "helicone",
-            "stars": 6068
+            "stars": 6072
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-12T20:49:55Z",
             "owner": "brianpetro",
             "repo": "obsidian-smart-connections",
-            "stars": 5359
+            "stars": 5363
           }
         },
         {
@@ -86,7 +86,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-15T17:59:46Z",
+            "last_commit": "2026-08-14T17:15:46Z",
             "owner": "llm-workflow-engine",
             "repo": "llm-workflow-engine",
             "stars": 3720
@@ -360,7 +360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T12:29:51.004Z",
+    "last_updated": "2026-08-15T11:59:02.849Z",
     "original_repository": "radi-cho/awesome-gpt4",
     "original_repository_sha": "777f9702b87600b0cfeb3d83a7e5d4a82f85a117",
     "enhanced_repository": "enhansome/enhansome-gpt4",

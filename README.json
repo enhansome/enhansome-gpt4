@@ -19,7 +19,7 @@
             "last_commit": "2026-03-27T16:04:05Z",
             "owner": "mayooear",
             "repo": "ai-pdf-chatbot-langchain",
-            "stars": 16595
+            "stars": 16598
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-16T20:26:29Z",
             "owner": "Helicone",
             "repo": "helicone",
-            "stars": 6073
+            "stars": 6082
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-08-14T17:15:46Z",
             "owner": "llm-workflow-engine",
             "repo": "llm-workflow-engine",
-            "stars": 3720
+            "stars": 3719
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-04-01T12:30:12Z",
             "owner": "melih-unsal",
             "repo": "DemoGPT",
-            "stars": 1904
+            "stars": 1905
           }
         },
         {
@@ -360,7 +360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T12:01:35.939Z",
+    "last_updated": "2026-08-18T12:03:45.412Z",
     "original_repository": "radi-cho/awesome-gpt4",
     "original_repository_sha": "777f9702b87600b0cfeb3d83a7e5d4a82f85a117",
     "enhanced_repository": "enhansome/enhansome-gpt4",

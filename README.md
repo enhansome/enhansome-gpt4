@@ -110,7 +110,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 
 ## Prompts
 
-Prompts and conversations that are especially impressive with GPT-4. Check out [@f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,526 | 🐛 66 | 🌐 HTML | 📅 2026-08-19 and [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) ⭐ 1,611 | 🐛 16 | 🌐 Python | 📅 2026-02-23 as well.
+Prompts and conversations that are especially impressive with GPT-4. Check out [@f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,529 | 🐛 66 | 🌐 HTML | 📅 2026-08-19 and [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) ⭐ 1,611 | 🐛 16 | 🌐 Python | 📅 2026-02-23 as well.
 
 <details>
   <summary>Act as a pharmacologists</summary>

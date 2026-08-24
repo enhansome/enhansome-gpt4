@@ -33,7 +33,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 
 * [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) ⚠️ Archived - GPT4 & LangChain Chatbot for large PDF docs.
 * [openplayground](https://github.com/nat/openplayground) ⭐ 6,351 | 🐛 106 | 🌐 TypeScript | 📅 2026-02-06 - An LLM playground you can run on your laptop.
-* [helicone](https://github.com/Helicone/helicone) ⭐ 6,096 | 🐛 155 | 🌐 TypeScript | 📅 2026-08-23 - GPT4 Monitoring and Observability.
+* [helicone](https://github.com/Helicone/helicone) ⭐ 6,097 | 🐛 155 | 🌐 TypeScript | 📅 2026-08-23 - GPT4 Monitoring and Observability.
 * [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) ⭐ 5,393 | 🐛 489 | 🌐 JavaScript | 📅 2026-08-22 - Chat with the notes in your Obsidian vault using OpenAI GPT-4.
 * [Wolverine](https://github.com/biobootloader/wolverine) ⭐ 5,071 | 🐛 27 | 🌐 Python | 📅 2024-03-08 - Run Python scripts, and when they crash, GPT-4 edits them and explains what went wrong.
 * [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) ⭐ 3,719 | 🐛 3 | 🌐 Python | 📅 2026-08-14 - API for interacting with ChatGPT and GPT4 using Python and from Shell.
@@ -60,6 +60,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 
 ### Community demos
 
+* [What-If: GPT-4 writing alternate history timelines](https://whatif2.vpanjeta.uk/) ([Source Code](https://github.com/VPanjeta/What-If) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2023-04-13)
 * [The first book written with GPT-4](https://www.impromptubook.com/wp-content/uploads/2023/03/impromptu-rh.pdf) (Announcement [thread](https://twitter.com/reidhoffman/status/1636006090927390720))
 * [Turn napkin sketch into a web app](https://youtu.be/outcGtbnMuQ?t=972) (By OpenAI)
 * [GPT-4 trying to escape by asking for its own documentation](https://twitter.com/michalkosinski/status/1636683810631974912)
@@ -77,7 +78,6 @@ Impactful scientific papers about GPT-4 and its predecessors.
 * [iOS shortcut to GPT-4 and GitHub](https://twitter.com/mckaywrigley/status/1640767366266232832)
 * [Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/)
 * [Code error healing loop (running until a working function is produced) with GPT-4](https://twitter.com/amasad/status/1644895388586086400)
-* [What-If: GPT-4 writing alternate history timelines](https://whatif2.vpanjeta.uk/) ([Source Code](https://github.com/VPanjeta/What-If) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2023-04-13)
 * [GPT-4 for Roblox Game Dev](https://youtu.be/yx4t6hH-y4g)
 
 ### Product integrations
@@ -110,7 +110,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 
 ## Prompts
 
-Prompts and conversations that are especially impressive with GPT-4. Check out [@f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,850 | 🐛 69 | 🌐 HTML | 📅 2026-08-24 and [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) ⭐ 1,614 | 🐛 16 | 🌐 Python | 📅 2026-02-23 as well.
+Prompts and conversations that are especially impressive with GPT-4. Check out [@f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,847 | 🐛 69 | 🌐 HTML | 📅 2026-08-24 and [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) ⭐ 1,614 | 🐛 16 | 🌐 Python | 📅 2026-02-23 as well.
 
 <details>
   <summary>Act as a pharmacologists</summary>

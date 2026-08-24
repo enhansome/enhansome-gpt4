@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-23T16:42:14Z",
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6096
+                "stars": 6097
               }
             },
             {
@@ -369,13 +369,35 @@
           "description": null,
           "node_type": "group",
           "title": "Open-source projects"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "What-If: GPT-4 writing alternate history timelines",
+              "description": "(Source Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 627034718,
+                "language": "Python",
+                "last_commit": "2023-04-13T16:11:28Z",
+                "owner": "VPanjeta",
+                "repo": "What-If",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Community demos"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T12:15:49.271Z",
+    "last_updated": "2026-08-24T14:04:34.426Z",
     "original_repository": "radi-cho/awesome-gpt4",
     "original_repository_id": 583974406,
     "original_repository_sha": "777f9702b87600b0cfeb3d83a7e5d4a82f85a117",

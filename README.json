@@ -17,7 +17,7 @@
                 "last_commit": "2026-03-27T16:04:05Z",
                 "owner": "mayooear",
                 "repo": "ai-pdf-chatbot-langchain",
-                "stars": 16601
+                "stars": 16599
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 595832198,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T01:33:12Z",
+                "last_commit": "2026-08-23T16:42:14Z",
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6095
+                "stars": 6096
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-22T14:58:41Z",
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5389
+                "stars": 5393
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2024-03-08T07:33:01Z",
                 "owner": "biobootloader",
                 "repo": "wolverine",
-                "stars": 5072
+                "stars": 5071
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2025-05-12T02:21:03Z",
                 "owner": "anse-app",
                 "repo": "anse",
-                "stars": 1973
+                "stars": 1972
               }
             },
             {
@@ -375,7 +375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T12:00:50.183Z",
+    "last_updated": "2026-08-24T12:15:49.271Z",
     "original_repository": "radi-cho/awesome-gpt4",
     "original_repository_id": 583974406,
     "original_repository_sha": "777f9702b87600b0cfeb3d83a7e5d4a82f85a117",

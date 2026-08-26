@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 595832198,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T22:34:00Z",
+                "last_commit": "2026-08-26T00:04:40Z",
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6099
+                "stars": 6102
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 582432706,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T14:58:41Z",
+                "last_commit": "2026-08-25T18:48:41Z",
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5397
+                "stars": 5399
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-14T17:15:46Z",
                 "owner": "llm-workflow-engine",
                 "repo": "llm-workflow-engine",
-                "stars": 3718
+                "stars": 3717
               }
             },
             {
@@ -397,7 +397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T12:16:31.335Z",
+    "last_updated": "2026-08-26T12:17:56.986Z",
     "original_repository": "radi-cho/awesome-gpt4",
     "original_repository_id": 583974406,
     "original_repository_sha": "777f9702b87600b0cfeb3d83a7e5d4a82f85a117",

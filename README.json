@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-26T16:23:55Z",
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5401
+                "stars": 5402
               }
             },
             {
@@ -397,7 +397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:43:06.438Z",
+    "last_updated": "2026-08-27T21:19:19.587Z",
     "original_repository_info": {
       "archived": false,
       "id": 583974406,
@@ -405,7 +405,7 @@
       "last_commit": "2024-03-18T13:30:43Z",
       "owner": "radi-cho",
       "repo": "awesome-gpt4",
-      "stars": 2228
+      "stars": 2229
     },
     "original_repository_sha": "777f9702b87600b0cfeb3d83a7e5d4a82f85a117",
     "enhanced_repository": "enhansome/enhansome-gpt4",

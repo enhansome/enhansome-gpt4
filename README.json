@@ -12,12 +12,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "AI PDF chatbot agent built with LangChain & LangGraph ",
+                "homepage": "https://www.youtube.com/watch?v=OF6SolDiEwU",
                 "id": 615113749,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-27T16:04:05Z",
+                "open_issues": 0,
                 "owner": "mayooear",
                 "repo": "ai-pdf-chatbot-langchain",
-                "stars": 16598
+                "stars": 16598,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "chatbot",
+                  "langchain",
+                  "langgraph",
+                  "nextjs",
+                  "openai",
+                  "pdf",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             },
@@ -28,12 +43,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An LLM playground you can run on your laptop",
+                "homepage": null,
                 "id": 606913964,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-06T04:56:49Z",
+                "open_issues": 106,
                 "owner": "nat",
                 "repo": "openplayground",
-                "stars": 6352
+                "stars": 6352,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             },
@@ -44,12 +64,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓",
+                "homepage": "https://www.helicone.ai",
                 "id": 595832198,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T00:04:40Z",
+                "open_issues": 155,
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6107
+                "stars": 6109,
+                "topics": [
+                  "agent-monitoring",
+                  "analytics",
+                  "evaluation",
+                  "gpt",
+                  "langchain",
+                  "large-language-models",
+                  "llama-index",
+                  "llm",
+                  "llm-cost",
+                  "llm-evaluation",
+                  "llm-observability",
+                  "llmops",
+                  "monitoring",
+                  "open-source",
+                  "openai",
+                  "playground",
+                  "prompt-engineering",
+                  "prompt-management",
+                  "ycombinator"
+                ]
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             },
@@ -60,12 +105,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.",
+                "homepage": "https://smartconnections.app",
                 "id": 582432706,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T16:23:55Z",
+                "open_issues": 489,
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5407
+                "stars": 5407,
+                "topics": [
+                  "chatgpt",
+                  "claude",
+                  "embeddings",
+                  "gemini",
+                  "obsidian",
+                  "obsidian-md",
+                  "obsidian-plugin",
+                  "related-items",
+                  "semantic-search",
+                  "vectors"
+                ]
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             },
@@ -76,12 +137,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 615861000,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-08T07:33:01Z",
+                "open_issues": 27,
                 "owner": "biobootloader",
                 "repo": "wolverine",
-                "stars": 5073
+                "stars": 5073,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             },
@@ -92,12 +158,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Power CLI and Workflow manager for LLMs (core package)",
+                "homepage": null,
                 "id": 573822937,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-14T17:15:46Z",
+                "open_issues": 3,
                 "owner": "llm-workflow-engine",
                 "repo": "llm-workflow-engine",
-                "stars": 3716
+                "stars": 3716,
+                "topics": [
+                  "chatbot",
+                  "chatgpt",
+                  "gpt-3",
+                  "gpt3",
+                  "gpt4",
+                  "llm",
+                  "openai",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             },
@@ -108,12 +188,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.",
+                "homepage": "https://anse.app",
                 "id": 633091774,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-05-12T02:21:03Z",
+                "open_issues": 41,
                 "owner": "anse-app",
                 "repo": "anse",
-                "stars": 1971
+                "stars": 1971,
+                "topics": [
+                  "azure-openai",
+                  "chatgpt",
+                  "dall-e",
+                  "google-gemini",
+                  "gpt-3",
+                  "gpt-35-turbo",
+                  "gpt-4",
+                  "openai",
+                  "stable-diffusion"
+                ]
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             },
@@ -124,12 +219,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 Create LLM agents in a second with your prompts. Everything you need to create an LLM Agent - tools, prompts, frameworks, and models - all in one place.",
+                "homepage": null,
                 "id": 650549146,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-01T12:30:12Z",
+                "open_issues": 10,
                 "owner": "melih-unsal",
                 "repo": "DemoGPT",
-                "stars": 1905
+                "stars": 1905,
+                "topics": [
+                  "agent",
+                  "agents",
+                  "ai",
+                  "artificial-intelligence",
+                  "autogpt",
+                  "autonomous-agents",
+                  "chatgpt",
+                  "chatgpt-api",
+                  "deepseek",
+                  "demo",
+                  "gpt-4",
+                  "langchain",
+                  "langchain-app",
+                  "langchain-python",
+                  "llms",
+                  "o1",
+                  "openai",
+                  "python",
+                  "streamlit",
+                  "streamlit-application"
+                ]
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             },
@@ -140,12 +261,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!",
+                "homepage": null,
                 "id": 575751232,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-06T23:33:50Z",
+                "open_issues": 43,
                 "owner": "Kav-K",
                 "repo": "GPTDiscord",
-                "stars": 1855
+                "stars": 1855,
+                "topics": [
+                  "artificial-intelligence",
+                  "asyncio",
+                  "chatbot",
+                  "code-interpreter",
+                  "collaborate",
+                  "dalle2",
+                  "digitalocean",
+                  "discord",
+                  "embeddings",
+                  "extractive-question-answering",
+                  "github",
+                  "gpt3",
+                  "hacktoberfest",
+                  "help-wanted",
+                  "moderator-bot",
+                  "multi-modal",
+                  "openai",
+                  "openai-api",
+                  "pinecone",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             },
@@ -156,12 +303,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Allows you to have an engaging and safely emotive spoken / CLI conversation with the AI ChatGPT / GPT-4 while giving you the option to let it remember things discussed.",
+                "homepage": null,
                 "id": 594551241,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-05-05T19:09:15Z",
+                "open_issues": 6,
                 "owner": "Adri6336",
                 "repo": "gpt-voice-conversation-chatbot",
-                "stars": 303
+                "stars": 303,
+                "topics": [
+                  "ai",
+                  "chatbot",
+                  "chatgpt",
+                  "cli",
+                  "conversational",
+                  "conversational-ai",
+                  "conversational-bots",
+                  "customizable",
+                  "elevenlabs",
+                  "gpt-3",
+                  "gpt-4",
+                  "memory",
+                  "openai",
+                  "personalized",
+                  "python",
+                  "speech-recognition",
+                  "speech-to-text",
+                  "tts",
+                  "user-friendly",
+                  "voice-recognition"
+                ]
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             },
@@ -172,12 +345,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A command-line interface to generate textual and conversational datasets with LLMs.",
+                "homepage": null,
                 "id": 613044182,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-08-25T16:39:10Z",
+                "open_issues": 4,
                 "owner": "radi-cho",
                 "repo": "datasetGPT",
-                "stars": 300
+                "stars": 300,
+                "topics": [
+                  "cli",
+                  "dataset-generation",
+                  "large-language-models",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             },
@@ -188,12 +371,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom Plugins for GPT-4 (easy web app interface)",
+                "homepage": null,
                 "id": 625029969,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-23T10:56:19Z",
+                "open_issues": 0,
                 "owner": "d3n7",
                 "repo": "GPT-4-Unlimited-Tools",
-                "stars": 276
+                "stars": 276,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             },
@@ -204,12 +392,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons",
+                "homepage": "https://chrome.google.com/webstore/detail/gpt-prompter/lcgpdbficokndjodlcgflbhaibicompp/overview",
                 "id": 510082455,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-06-12T10:59:21Z",
+                "open_issues": 9,
                 "owner": "giosilvi",
                 "repo": "GPT-Prompter",
-                "stars": 240
+                "stars": 240,
+                "topics": [
+                  "chat",
+                  "chatgpt",
+                  "chatgpt-api",
+                  "chrome-extension",
+                  "firefox-addon",
+                  "gpt3",
+                  "gpt4"
+                ]
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             },
@@ -220,12 +421,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "REPL environment for GPT pair programming",
+                "homepage": null,
                 "id": 616572456,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-29T02:08:27Z",
+                "open_issues": 4,
                 "owner": "jiggy-ai",
                 "repo": "pair",
-                "stars": 239
+                "stars": 239,
+                "topics": [
+                  "chatgpt",
+                  "cli",
+                  "gpt-3",
+                  "gpt-4",
+                  "gpt4",
+                  "openai",
+                  "productivity",
+                  "python",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             },
@@ -236,12 +452,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DoctorGPT brings GPT into production for application log error diagnosing!",
+                "homepage": null,
                 "id": 615913453,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-05-10T01:20:55Z",
+                "open_issues": 0,
                 "owner": "ingyamilmolinar",
                 "repo": "doctorgpt",
-                "stars": 210
+                "stars": 210,
+                "topics": [
+                  "application",
+                  "chatgpt",
+                  "diagnosis",
+                  "diagnostics",
+                  "error",
+                  "gpt",
+                  "log",
+                  "log-analysis",
+                  "production"
+                ]
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             },
@@ -252,12 +483,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spotify playlist generator via ChatGPT ",
+                "homepage": null,
                 "id": 616566481,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-20T15:23:42Z",
+                "open_issues": 3,
                 "owner": "idilsulo",
                 "repo": "ChatGPTify",
-                "stars": 206
+                "stars": 206,
+                "topics": [
+                  "chatgpt",
+                  "chatgpt-api",
+                  "gpt-3",
+                  "gpt4",
+                  "openai",
+                  "spotify",
+                  "spotify-api",
+                  "spotify-playlist",
+                  "spotipy"
+                ]
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             },
@@ -268,12 +514,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of prompts for use with GPT-4 via ChatGPT, OpenAI API w/ Gradio frontend & notebook",
+                "homepage": "https://bento.me/promptlib",
                 "id": 595846439,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2023-08-08T05:14:32Z",
+                "open_issues": 3,
                 "owner": "jmpaz",
                 "repo": "promptlib",
-                "stars": 195
+                "stars": 195,
+                "topics": [
+                  "chatgpt",
+                  "gpt-3",
+                  "gpt-4",
+                  "gradio",
+                  "langchain",
+                  "large-language-models",
+                  "openai",
+                  "prompt-engineering",
+                  "prompt-programming",
+                  "prompts"
+                ]
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             },
@@ -284,12 +546,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Access GPT3, ChatGPT, and GPT4 straight from your terminal",
+                "homepage": null,
                 "id": 586557865,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2023-03-22T15:52:20Z",
+                "open_issues": 0,
                 "owner": "CristiVlad25",
                 "repo": "gpt-cli",
-                "stars": 171
+                "stars": 171,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             },
@@ -300,12 +567,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dataset featuring diverse dialogues between two ChatGPT (gpt-3.5-turbo) instances with system messages written by GPT-4. Covering various contexts and tasks (task-oriented dialogue systems, abstract reasoning, brainstorming).",
+                "homepage": null,
                 "id": 620332987,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-04-01T12:52:44Z",
+                "open_issues": 1,
                 "owner": "radi-cho",
                 "repo": "botbots",
-                "stars": 164
+                "stars": 164,
+                "topics": [
+                  "chatgpt",
+                  "dataset",
+                  "gpt-4"
+                ]
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             },
@@ -316,12 +592,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A wrapper of LLMs that biases its behaviour using prompts and contexts in a transparent manner to the end-users",
+                "homepage": null,
                 "id": 610856043,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2025-06-11T14:12:36Z",
+                "open_issues": 1,
                 "owner": "citiususc",
                 "repo": "smarty-gpt",
-                "stars": 138
+                "stars": 138,
+                "topics": [
+                  "awesome-chatgpt-prompts",
+                  "chatgpt",
+                  "gpt",
+                  "gpt-3",
+                  "gpt-35-turbo",
+                  "gpt-4",
+                  "language-model",
+                  "prompt-engineering",
+                  "prompts",
+                  "python",
+                  "t5",
+                  "wrapper"
+                ]
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             },
@@ -332,12 +626,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Predict Stock movements with GPT-4 or GPT-3.5",
+                "homepage": null,
                 "id": 631122286,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-24T03:08:59Z",
+                "open_issues": 0,
                 "owner": "d3n7",
                 "repo": "StockGPT",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             },
@@ -348,12 +647,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Text prompt to MIDI File using OpenAI's GPT-4",
+                "homepage": null,
                 "id": 621574404,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-21T13:30:39Z",
+                "open_issues": 3,
                 "owner": "d3n7",
                 "repo": "GPT-4-To-MIDI",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             },
@@ -364,12 +668,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A fully serverless (AWS Lambda, API Gateway, DynamoDB) Slack bot with GPT-4 support and full conversation mode",
+                "homepage": "https://opichon.medium.com/gptbot-an-open-source-gpt-4-slack-bot-647be5e7152a",
                 "id": 615621196,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-01-10T13:38:03Z",
+                "open_issues": 2,
                 "owner": "Electric-Hydrogen",
                 "repo": "GPTBot",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "bot",
+                  "chatgpt",
+                  "slack"
+                ]
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             },
@@ -380,12 +693,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Conference scheduling using GPT-4, Google Gemini 2.5 Pro",
+                "homepage": "https://devoxx.com",
                 "id": 615665079,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-12-09T10:34:34Z",
+                "open_issues": 0,
                 "owner": "stephanj",
                 "repo": "Scheduling-using-GPT4",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "devoxx",
+                  "gpt-3",
+                  "gpt-4",
+                  "optaplanner",
+                  "scheduling",
+                  "voxxeddays"
+                ]
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             }
@@ -403,12 +728,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Answers to your arbitraty history shower thoughts about alternate history",
+                "homepage": "https://whatif2.vpanjeta.uk/",
                 "id": 627034718,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-13T16:11:28Z",
+                "open_issues": 0,
                 "owner": "VPanjeta",
                 "repo": "What-If",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "chatgpt",
+                  "history",
+                  "openai",
+                  "streamlit"
+                ]
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
             }
@@ -422,15 +757,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:32:07.261Z",
+    "last_updated": "2026-08-29T04:25:56.921Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",
+      "homepage": null,
       "id": 583974406,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-03-18T13:30:43Z",
+      "open_issues": 13,
       "owner": "radi-cho",
       "repo": "awesome-gpt4",
-      "stars": 2229
+      "stars": 2229,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "gpt-4"
+      ]
     },
     "original_repository_sha": "777f9702b87600b0cfeb3d83a7e5d4a82f85a117",
     "enhanced_repository": "enhansome/enhansome-gpt4",

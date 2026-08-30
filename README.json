@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "mayooear",
                 "repo": "ai-pdf-chatbot-langchain",
-                "stars": 16597,
+                "stars": 16596,
                 "topics": [
                   "agents",
                   "ai",
@@ -52,7 +52,7 @@
                 "open_issues": 106,
                 "owner": "nat",
                 "repo": "openplayground",
-                "stars": 6352,
+                "stars": 6351,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
@@ -73,7 +73,7 @@
                 "open_issues": 155,
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6113,
+                "stars": 6115,
                 "topics": [
                   "agent-monitoring",
                   "analytics",
@@ -114,7 +114,7 @@
                 "open_issues": 489,
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5406,
+                "stars": 5409,
                 "topics": [
                   "chatgpt",
                   "claude",
@@ -225,7 +225,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-04-01T12:30:12Z",
-                "open_issues": 11,
+                "open_issues": 10,
                 "owner": "melih-unsal",
                 "repo": "DemoGPT",
                 "stars": 1905,
@@ -270,7 +270,7 @@
                 "open_issues": 43,
                 "owner": "Kav-K",
                 "repo": "GPTDiscord",
-                "stars": 1855,
+                "stars": 1853,
                 "topics": [
                   "artificial-intelligence",
                   "asyncio",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:45:42.640Z",
+    "last_updated": "2026-08-30T15:29:12.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",
@@ -766,10 +766,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-03-18T13:30:43Z",
-      "open_issues": 13,
+      "open_issues": 12,
       "owner": "radi-cho",
       "repo": "awesome-gpt4",
-      "stars": 2229,
+      "stars": 2228,
       "topics": [
         "awesome",
         "awesome-list",

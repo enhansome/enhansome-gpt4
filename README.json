@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "mayooear",
                 "repo": "ai-pdf-chatbot-langchain",
-                "stars": 16596,
+                "stars": 16597,
                 "topics": [
                   "agents",
                   "ai",
@@ -69,11 +69,11 @@
                 "id": 595832198,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-26T00:04:40Z",
-                "open_issues": 155,
+                "last_commit": "2026-08-31T05:02:00Z",
+                "open_issues": 157,
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6115,
+                "stars": 6118,
                 "topics": [
                   "agent-monitoring",
                   "analytics",
@@ -110,11 +110,11 @@
                 "id": 582432706,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-26T16:23:55Z",
+                "last_commit": "2026-08-31T18:05:33Z",
                 "open_issues": 489,
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5409,
+                "stars": 5417,
                 "topics": [
                   "chatgpt",
                   "claude",
@@ -146,7 +146,7 @@
                 "open_issues": 27,
                 "owner": "biobootloader",
                 "repo": "wolverine",
-                "stars": 5073,
+                "stars": 5072,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
@@ -167,7 +167,7 @@
                 "open_issues": 3,
                 "owner": "llm-workflow-engine",
                 "repo": "llm-workflow-engine",
-                "stars": 3716,
+                "stars": 3715,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -219,7 +219,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "🤖 Create LLM agents in a second with your prompts. Everything you need to create an LLM Agent - tools, prompts, frameworks, and models - all in one place.",
+                "description": "🤖 Create agentic apps in a second with your prompts. Everything you need to create an LLM Agent - tools, prompts, frameworks, and models - all in one place.",
                 "homepage": null,
                 "id": 650549146,
                 "language": "Python",
@@ -234,22 +234,21 @@
                   "agents",
                   "ai",
                   "artificial-intelligence",
-                  "autogpt",
                   "autonomous-agents",
                   "chatgpt",
-                  "chatgpt-api",
-                  "deepseek",
-                  "demo",
-                  "gpt-4",
+                  "claude-code",
+                  "coding-agents",
+                  "gemini-api",
                   "langchain",
                   "langchain-app",
                   "langchain-python",
                   "llms",
-                  "o1",
+                  "mobile-app",
                   "openai",
                   "python",
-                  "streamlit",
-                  "streamlit-application"
+                  "qwen",
+                  "react",
+                  "web-app"
                 ]
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
@@ -461,7 +460,7 @@
                 "open_issues": 0,
                 "owner": "ingyamilmolinar",
                 "repo": "doctorgpt",
-                "stars": 210,
+                "stars": 209,
                 "topics": [
                   "application",
                   "chatgpt",
@@ -492,7 +491,7 @@
                 "open_issues": 3,
                 "owner": "idilsulo",
                 "repo": "ChatGPTify",
-                "stars": 206,
+                "stars": 205,
                 "topics": [
                   "chatgpt",
                   "chatgpt-api",
@@ -757,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T15:29:12.041Z",
+    "last_updated": "2026-08-31T18:09:57.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",

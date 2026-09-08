@@ -52,7 +52,7 @@
                 "open_issues": 106,
                 "owner": "nat",
                 "repo": "openplayground",
-                "stars": 6350,
+                "stars": 6349,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
@@ -70,7 +70,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-31T05:02:00Z",
-                "open_issues": 155,
+                "open_issues": 156,
                 "owner": "Helicone",
                 "repo": "helicone",
                 "stars": 6134,
@@ -114,7 +114,7 @@
                 "open_issues": 490,
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5437,
+                "stars": 5441,
                 "topics": [
                   "chatgpt",
                   "claude",
@@ -146,7 +146,7 @@
                 "open_issues": 27,
                 "owner": "biobootloader",
                 "repo": "wolverine",
-                "stars": 5069,
+                "stars": 5068,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T16:40:24.330Z",
+    "last_updated": "2026-09-08T15:22:05.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",

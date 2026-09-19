@@ -52,7 +52,7 @@
                 "open_issues": 106,
                 "owner": "nat",
                 "repo": "openplayground",
-                "stars": 6348,
+                "stars": 6349,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
@@ -70,10 +70,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T19:29:27Z",
-                "open_issues": 155,
+                "open_issues": 156,
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6163,
+                "stars": 6164,
                 "topics": [
                   "agent-monitoring",
                   "analytics",
@@ -114,7 +114,7 @@
                 "open_issues": 493,
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5456,
+                "stars": 5460,
                 "topics": [
                   "chatgpt",
                   "claude",
@@ -167,7 +167,7 @@
                 "open_issues": 3,
                 "owner": "llm-workflow-engine",
                 "repo": "llm-workflow-engine",
-                "stars": 3715,
+                "stars": 3714,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -228,7 +228,7 @@
                 "open_issues": 10,
                 "owner": "melih-unsal",
                 "repo": "DemoGPT",
-                "stars": 1910,
+                "stars": 1909,
                 "topics": [
                   "agent",
                   "agents",
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T15:11:53.963Z",
+    "last_updated": "2026-09-19T14:50:07.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",
@@ -768,7 +768,7 @@
       "open_issues": 13,
       "owner": "radi-cho",
       "repo": "awesome-gpt4",
-      "stars": 2227,
+      "stars": 2226,
       "topics": [
         "awesome",
         "awesome-list",

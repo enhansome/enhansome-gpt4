@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "mayooear",
                 "repo": "ai-pdf-chatbot-langchain",
-                "stars": 16589,
+                "stars": 16590,
                 "topics": [
                   "agents",
                   "ai",
@@ -52,7 +52,7 @@
                 "open_issues": 106,
                 "owner": "nat",
                 "repo": "openplayground",
-                "stars": 6349,
+                "stars": 6348,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
@@ -70,10 +70,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T19:29:27Z",
-                "open_issues": 158,
+                "open_issues": 159,
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6166,
+                "stars": 6168,
                 "topics": [
                   "agent-monitoring",
                   "analytics",
@@ -146,7 +146,7 @@
                 "open_issues": 28,
                 "owner": "biobootloader",
                 "repo": "wolverine",
-                "stars": 5063,
+                "stars": 5062,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
@@ -167,7 +167,7 @@
                 "open_issues": 3,
                 "owner": "llm-workflow-engine",
                 "repo": "llm-workflow-engine",
-                "stars": 3714,
+                "stars": 3715,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -197,7 +197,7 @@
                 "open_issues": 41,
                 "owner": "anse-app",
                 "repo": "anse",
-                "stars": 1969,
+                "stars": 1968,
                 "topics": [
                   "azure-openai",
                   "chatgpt",
@@ -269,7 +269,7 @@
                 "open_issues": 44,
                 "owner": "Kav-K",
                 "repo": "GPTDiscord",
-                "stars": 1852,
+                "stars": 1851,
                 "topics": [
                   "artificial-intelligence",
                   "asyncio",
@@ -400,7 +400,7 @@
                 "open_issues": 9,
                 "owner": "giosilvi",
                 "repo": "GPT-Prompter",
-                "stars": 240,
+                "stars": 239,
                 "topics": [
                   "chat",
                   "chatgpt",
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T14:53:51.936Z",
+    "last_updated": "2026-09-21T17:12:34.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",

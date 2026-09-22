@@ -73,7 +73,7 @@
                 "open_issues": 159,
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6168,
+                "stars": 6174,
                 "topics": [
                   "agent-monitoring",
                   "analytics",
@@ -111,10 +111,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-16T15:51:49Z",
-                "open_issues": 493,
+                "open_issues": 494,
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5462,
+                "stars": 5465,
                 "topics": [
                   "chatgpt",
                   "claude",
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T17:12:34.692Z",
+    "last_updated": "2026-09-22T15:44:58.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",
@@ -768,7 +768,7 @@
       "open_issues": 13,
       "owner": "radi-cho",
       "repo": "awesome-gpt4",
-      "stars": 2226,
+      "stars": 2227,
       "topics": [
         "awesome",
         "awesome-list",

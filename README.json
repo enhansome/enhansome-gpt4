@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "mayooear",
                 "repo": "ai-pdf-chatbot-langchain",
-                "stars": 16588,
+                "stars": 16589,
                 "topics": [
                   "agents",
                   "ai",
@@ -73,7 +73,7 @@
                 "open_issues": 160,
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6177,
+                "stars": 6180,
                 "topics": [
                   "agent-monitoring",
                   "analytics",
@@ -114,7 +114,7 @@
                 "open_issues": 495,
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5468,
+                "stars": 5470,
                 "topics": [
                   "chatgpt",
                   "claude",
@@ -540,27 +540,6 @@
             },
             {
               "node_type": "item",
-              "title": "gpt-cli",
-              "description": "Access GPT3, ChatGPT, and GPT4 straight from your terminal.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Access GPT3, ChatGPT, and GPT4 straight from your terminal",
-                "homepage": null,
-                "id": 586557865,
-                "language": "Shell",
-                "license": null,
-                "last_commit": "2023-03-22T15:52:20Z",
-                "open_issues": 0,
-                "owner": "CristiVlad25",
-                "repo": "gpt-cli",
-                "stars": 171,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:32:07.261Z"
-            },
-            {
-              "node_type": "item",
               "title": "botbots",
               "description": "A dataset of dialogues between two instances with system messages written by GPT-4.",
               "children": [],
@@ -756,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T15:07:31.217Z",
+    "last_updated": "2026-09-27T15:49:20.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",
@@ -768,7 +747,7 @@
       "open_issues": 13,
       "owner": "radi-cho",
       "repo": "awesome-gpt4",
-      "stars": 2228,
+      "stars": 2227,
       "topics": [
         "awesome",
         "awesome-list",

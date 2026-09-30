@@ -70,10 +70,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T19:29:27Z",
-                "open_issues": 161,
+                "open_issues": 162,
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6188,
+                "stars": 6190,
                 "topics": [
                   "agent-monitoring",
                   "analytics",
@@ -114,7 +114,7 @@
                 "open_issues": 496,
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5473,
+                "stars": 5475,
                 "topics": [
                   "chatgpt",
                   "claude",
@@ -146,7 +146,7 @@
                 "open_issues": 28,
                 "owner": "biobootloader",
                 "repo": "wolverine",
-                "stars": 5063,
+                "stars": 5061,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
@@ -197,7 +197,7 @@
                 "open_issues": 41,
                 "owner": "anse-app",
                 "repo": "anse",
-                "stars": 1968,
+                "stars": 1967,
                 "topics": [
                   "azure-openai",
                   "chatgpt",
@@ -269,7 +269,7 @@
                 "open_issues": 44,
                 "owner": "Kav-K",
                 "repo": "GPTDiscord",
-                "stars": 1853,
+                "stars": 1852,
                 "topics": [
                   "artificial-intelligence",
                   "asyncio",
@@ -311,7 +311,7 @@
                 "open_issues": 6,
                 "owner": "Adri6336",
                 "repo": "gpt-voice-conversation-chatbot",
-                "stars": 302,
+                "stars": 301,
                 "topics": [
                   "ai",
                   "chatbot",
@@ -386,35 +386,6 @@
             },
             {
               "node_type": "item",
-              "title": "GPT-Prompter",
-              "description": "Browser extension to get a fast prompt for OpenAI's GPT-3, GPT-4 & ChatGPT API.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons",
-                "homepage": "https://chrome.google.com/webstore/detail/gpt-prompter/lcgpdbficokndjodlcgflbhaibicompp/overview",
-                "id": 510082455,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2025-06-12T10:59:21Z",
-                "open_issues": 9,
-                "owner": "giosilvi",
-                "repo": "GPT-Prompter",
-                "stars": 239,
-                "topics": [
-                  "chat",
-                  "chatgpt",
-                  "chatgpt-api",
-                  "chrome-extension",
-                  "firefox-addon",
-                  "gpt3",
-                  "gpt4"
-                ]
-              },
-              "first_seen": "2026-08-28T21:32:07.261Z"
-            },
-            {
-              "node_type": "item",
               "title": "Pair",
               "description": "An iterative, stateful chat-like interface for programmers to pair programming with GPT-4.",
               "children": [],
@@ -440,6 +411,35 @@
                   "productivity",
                   "python",
                   "terminal"
+                ]
+              },
+              "first_seen": "2026-08-28T21:32:07.261Z"
+            },
+            {
+              "node_type": "item",
+              "title": "GPT-Prompter",
+              "description": "Browser extension to get a fast prompt for OpenAI's GPT-3, GPT-4 & ChatGPT API.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons",
+                "homepage": "https://chrome.google.com/webstore/detail/gpt-prompter/lcgpdbficokndjodlcgflbhaibicompp/overview",
+                "id": 510082455,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2025-06-12T10:59:21Z",
+                "open_issues": 9,
+                "owner": "giosilvi",
+                "repo": "GPT-Prompter",
+                "stars": 238,
+                "topics": [
+                  "chat",
+                  "chatgpt",
+                  "chatgpt-api",
+                  "chrome-extension",
+                  "firefox-addon",
+                  "gpt3",
+                  "gpt4"
                 ]
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
@@ -491,7 +491,7 @@
                 "open_issues": 3,
                 "owner": "idilsulo",
                 "repo": "ChatGPTify",
-                "stars": 205,
+                "stars": 204,
                 "topics": [
                   "chatgpt",
                   "chatgpt-api",
@@ -522,7 +522,7 @@
                 "open_issues": 3,
                 "owner": "jmpaz",
                 "repo": "promptlib",
-                "stars": 194,
+                "stars": 193,
                 "topics": [
                   "chatgpt",
                   "gpt-3",
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T17:02:46.776Z",
+    "last_updated": "2026-09-30T17:00:53.192Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",
@@ -747,7 +747,7 @@
       "open_issues": 13,
       "owner": "radi-cho",
       "repo": "awesome-gpt4",
-      "stars": 2227,
+      "stars": 2225,
       "topics": [
         "awesome",
         "awesome-list",

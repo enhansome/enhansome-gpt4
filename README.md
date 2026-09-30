@@ -33,21 +33,21 @@ Impactful scientific papers about GPT-4 and its predecessors.
 
 * [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) ⚠️ Archived - GPT4 & LangChain Chatbot for large PDF docs.
 * [openplayground](https://github.com/nat/openplayground) ⭐ 6,350 | 🐛 104 | 🌐 TypeScript | 📅 2026-02-06 - An LLM playground you can run on your laptop.
-* [helicone](https://github.com/Helicone/helicone) ⭐ 6,188 | 🐛 161 | 🌐 TypeScript | 📅 2026-09-16 - GPT4 Monitoring and Observability.
-* [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) ⭐ 5,473 | 🐛 496 | 🌐 JavaScript | 📅 2026-09-24 - Chat with the notes in your Obsidian vault using OpenAI GPT-4.
-* [Wolverine](https://github.com/biobootloader/wolverine) ⭐ 5,063 | 🐛 28 | 🌐 Python | 📅 2024-03-08 - Run Python scripts, and when they crash, GPT-4 edits them and explains what went wrong.
+* [helicone](https://github.com/Helicone/helicone) ⭐ 6,190 | 🐛 162 | 🌐 TypeScript | 📅 2026-09-16 - GPT4 Monitoring and Observability.
+* [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) ⭐ 5,475 | 🐛 496 | 🌐 JavaScript | 📅 2026-09-24 - Chat with the notes in your Obsidian vault using OpenAI GPT-4.
+* [Wolverine](https://github.com/biobootloader/wolverine) ⭐ 5,061 | 🐛 28 | 🌐 Python | 📅 2024-03-08 - Run Python scripts, and when they crash, GPT-4 edits them and explains what went wrong.
 * [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) ⭐ 3,715 | 🐛 3 | 🌐 Python | 📅 2026-09-05 - API for interacting with ChatGPT and GPT4 using Python and from Shell.
-* [Anse](https://github.com/anse-app/anse) ⭐ 1,968 | 🐛 41 | 🌐 TypeScript | 📅 2025-05-12 - Supercharged experience for ChatGPT, DALL-E, and Stable Diffusion.
+* [Anse](https://github.com/anse-app/anse) ⭐ 1,967 | 🐛 41 | 🌐 TypeScript | 📅 2025-05-12 - Supercharged experience for ChatGPT, DALL-E, and Stable Diffusion.
 * [DemoGPT](https://github.com/melih-unsal/DemoGPT) ⭐ 1,908 | 🐛 10 | 🌐 Python | 📅 2026-04-01 - DemoGPT enables you to create quick demos by just using prompts.
-* [GPTDiscord](https://github.com/Kav-K/GPTDiscord) ⭐ 1,853 | 🐛 44 | 🌐 Python | 📅 2026-02-06 - A full OpenAI integration for Discord with multi-modal chat and infinite-length conversations.
-* [gpt-voice-conversation-chatbot](https://github.com/Adri6336/gpt-voice-conversation-chatbot) ⭐ 302 | 🐛 6 | 🌐 Python | 📅 2024-05-05 - Conversational GPT-4 bot that has memory, ElevenLabs/Google TTS, voice-chat/CLI options, customization, and is not token-limited.
+* [GPTDiscord](https://github.com/Kav-K/GPTDiscord) ⭐ 1,852 | 🐛 44 | 🌐 Python | 📅 2026-02-06 - A full OpenAI integration for Discord with multi-modal chat and infinite-length conversations.
+* [gpt-voice-conversation-chatbot](https://github.com/Adri6336/gpt-voice-conversation-chatbot) ⭐ 301 | 🐛 6 | 🌐 Python | 📅 2024-05-05 - Conversational GPT-4 bot that has memory, ElevenLabs/Google TTS, voice-chat/CLI options, customization, and is not token-limited.
 * [datasetGPT](https://github.com/radi-cho/datasetGPT) ⭐ 300 | 🐛 4 | 🌐 Python | 📅 2023-08-25 - A command-line interface to generate textual and conversational datasets with LLMs.
 * [GPT-4 Unlimited Tools](https://github.com/d3n7/GPT-4-Unlimited-Tools) ⭐ 276 | 🐛 0 | 🌐 Python | 📅 2023-04-23 - GPT-4 with internet and command line access.
-* [GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) ⚠️ Archived - Browser extension to get a fast prompt for OpenAI's GPT-3, GPT-4 & ChatGPT API.
 * [Pair](https://github.com/jiggy-ai/pair) ⭐ 239 | 🐛 4 | 🌐 Python | 📅 2024-09-29 - An iterative, stateful chat-like interface for programmers to pair programming with GPT-4.
+* [GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) ⚠️ Archived - Browser extension to get a fast prompt for OpenAI's GPT-3, GPT-4 & ChatGPT API.
 * [doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) ⭐ 209 | 🐛 0 | 🌐 Go | 📅 2023-05-10 - Production log error diagnosing.
-* [ChatGPTify](https://github.com/idilsulo/ChatGPTify) ⭐ 205 | 🐛 3 | 🌐 Python | 📅 2024-01-20 - Spotify playlist generator via ChatGPT (and GPT-4).
-* [promptlib](https://github.com/jmpaz/promptlib/) ⭐ 194 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-08-08 - A collection of prompts for use with GPT-4 via ChatGPT, OpenAI API w/ Gradio frontend.
+* [ChatGPTify](https://github.com/idilsulo/ChatGPTify) ⭐ 204 | 🐛 3 | 🌐 Python | 📅 2024-01-20 - Spotify playlist generator via ChatGPT (and GPT-4).
+* [promptlib](https://github.com/jmpaz/promptlib/) ⭐ 193 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-08-08 - A collection of prompts for use with GPT-4 via ChatGPT, OpenAI API w/ Gradio frontend.
 * [botbots](https://github.com/radi-cho/botbots) ⭐ 164 | 🐛 1 | 📅 2023-04-01 - A dataset of dialogues between two `gpt-3.5-turbo` instances with system messages written by GPT-4.
 * [Smarty GPT](https://github.com/citiususc/Smarty-GPT) ⭐ 138 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-06-11 - a wrapper of prompts and contexts that supports several models, including GPT4.
 * [StockGPT](https://github.com/d3n7/StockGPT) ⭐ 123 | 🐛 0 | 🌐 Python | 📅 2023-04-24 - Primitive technique to predict stock movements with GPT-4 or 3.5.
@@ -110,7 +110,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 
 ## Prompts
 
-Prompts and conversations that are especially impressive with GPT-4. Check out [@f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 171,589 | 🐛 83 | 🌐 HTML | 📅 2026-09-09 and [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) ⭐ 1,630 | 🐛 18 | 🌐 Python | 📅 2026-02-23 as well.
+Prompts and conversations that are especially impressive with GPT-4. Check out [@f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 171,687 | 🐛 84 | 🌐 HTML | 📅 2026-09-09 and [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) ⭐ 1,630 | 🐛 18 | 🌐 Python | 📅 2026-02-23 as well.
 
 <details>
   <summary>Act as a pharmacologists</summary>
@@ -225,4 +225,4 @@ Contributions are always welcome! Read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._

@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "mayooear",
                 "repo": "ai-pdf-chatbot-langchain",
-                "stars": 16588,
+                "stars": 16587,
                 "topics": [
                   "agents",
                   "ai",
@@ -70,10 +70,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T19:29:27Z",
-                "open_issues": 162,
+                "open_issues": 164,
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6190,
+                "stars": 6192,
                 "topics": [
                   "agent-monitoring",
                   "analytics",
@@ -114,7 +114,7 @@
                 "open_issues": 496,
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5475,
+                "stars": 5477,
                 "topics": [
                   "chatgpt",
                   "claude",
@@ -269,7 +269,7 @@
                 "open_issues": 44,
                 "owner": "Kav-K",
                 "repo": "GPTDiscord",
-                "stars": 1852,
+                "stars": 1853,
                 "topics": [
                   "artificial-intelligence",
                   "asyncio",
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T17:00:53.192Z",
+    "last_updated": "2026-10-01T17:30:11.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",

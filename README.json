@@ -73,7 +73,7 @@
                 "open_issues": 164,
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6192,
+                "stars": 6194,
                 "topics": [
                   "agent-monitoring",
                   "analytics",
@@ -114,7 +114,7 @@
                 "open_issues": 496,
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5477,
+                "stars": 5478,
                 "topics": [
                   "chatgpt",
                   "claude",
@@ -167,7 +167,7 @@
                 "open_issues": 3,
                 "owner": "llm-workflow-engine",
                 "repo": "llm-workflow-engine",
-                "stars": 3715,
+                "stars": 3714,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T17:30:11.030Z",
+    "last_updated": "2026-10-02T16:50:24.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",
@@ -747,7 +747,7 @@
       "open_issues": 13,
       "owner": "radi-cho",
       "repo": "awesome-gpt4",
-      "stars": 2225,
+      "stars": 2226,
       "topics": [
         "awesome",
         "awesome-list",

@@ -114,7 +114,7 @@
                 "open_issues": 496,
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5478,
+                "stars": 5480,
                 "topics": [
                   "chatgpt",
                   "claude",
@@ -702,7 +702,7 @@
             {
               "node_type": "item",
               "title": "What-If: GPT-4 writing alternate history timelines",
-              "description": "(Source Code)",
+              "description": "VPanjeta/What-If",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:50:24.358Z",
+    "last_updated": "2026-10-03T04:46:40.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",
@@ -747,7 +747,7 @@
       "open_issues": 13,
       "owner": "radi-cho",
       "repo": "awesome-gpt4",
-      "stars": 2226,
+      "stars": 2227,
       "topics": [
         "awesome",
         "awesome-list",

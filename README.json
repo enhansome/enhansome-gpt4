@@ -73,7 +73,7 @@
                 "open_issues": 167,
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6200,
+                "stars": 6201,
                 "topics": [
                   "agent-monitoring",
                   "analytics",
@@ -114,7 +114,7 @@
                 "open_issues": 496,
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5487,
+                "stars": 5488,
                 "topics": [
                   "chatgpt",
                   "claude",
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:31:38.731Z",
+    "last_updated": "2026-10-06T17:25:37.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",

@@ -32,13 +32,13 @@ Impactful scientific papers about GPT-4 and its predecessors.
 ### Open-source projects
 
 * [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) ⚠️ Archived - GPT4 & LangChain Chatbot for large PDF docs.
-* [openplayground](https://github.com/nat/openplayground) ⭐ 6,349 | 🐛 104 | 🌐 TypeScript | 📅 2026-02-06 - An LLM playground you can run on your laptop.
-* [helicone](https://github.com/Helicone/helicone) ⭐ 6,201 | 🐛 167 | 🌐 TypeScript | 📅 2026-09-16 - GPT4 Monitoring and Observability.
-* [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) ⭐ 5,488 | 🐛 496 | 🌐 JavaScript | 📅 2026-10-03 - Chat with the notes in your Obsidian vault using OpenAI GPT-4.
+* [openplayground](https://github.com/nat/openplayground) ⭐ 6,348 | 🐛 104 | 🌐 TypeScript | 📅 2026-02-06 - An LLM playground you can run on your laptop.
+* [helicone](https://github.com/Helicone/helicone) ⭐ 6,206 | 🐛 167 | 🌐 TypeScript | 📅 2026-09-16 - GPT4 Monitoring and Observability.
+* [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) ⭐ 5,488 | 🐛 497 | 🌐 JavaScript | 📅 2026-10-03 - Chat with the notes in your Obsidian vault using OpenAI GPT-4.
 * [Wolverine](https://github.com/biobootloader/wolverine) ⭐ 5,060 | 🐛 28 | 🌐 Python | 📅 2024-03-08 - Run Python scripts, and when they crash, GPT-4 edits them and explains what went wrong.
 * [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) ⭐ 3,715 | 🐛 3 | 🌐 Python | 📅 2026-09-05 - API for interacting with ChatGPT and GPT4 using Python and from Shell.
-* [Anse](https://github.com/anse-app/anse) ⭐ 1,967 | 🐛 41 | 🌐 TypeScript | 📅 2025-05-12 - Supercharged experience for ChatGPT, DALL-E, and Stable Diffusion.
-* [DemoGPT](https://github.com/melih-unsal/DemoGPT) ⭐ 1,908 | 🐛 10 | 🌐 Python | 📅 2026-04-01 - DemoGPT enables you to create quick demos by just using prompts.
+* [Anse](https://github.com/anse-app/anse) ⭐ 1,966 | 🐛 41 | 🌐 TypeScript | 📅 2025-05-12 - Supercharged experience for ChatGPT, DALL-E, and Stable Diffusion.
+* [DemoGPT](https://github.com/melih-unsal/DemoGPT) ⭐ 1,906 | 🐛 10 | 🌐 Python | 📅 2026-04-01 - DemoGPT enables you to create quick demos by just using prompts.
 * [GPTDiscord](https://github.com/Kav-K/GPTDiscord) ⭐ 1,853 | 🐛 44 | 🌐 Python | 📅 2026-02-06 - A full OpenAI integration for Discord with multi-modal chat and infinite-length conversations.
 * [gpt-voice-conversation-chatbot](https://github.com/Adri6336/gpt-voice-conversation-chatbot) ⭐ 301 | 🐛 6 | 🌐 Python | 📅 2024-05-05 - Conversational GPT-4 bot that has memory, ElevenLabs/Google TTS, voice-chat/CLI options, customization, and is not token-limited.
 * [datasetGPT](https://github.com/radi-cho/datasetGPT) ⭐ 300 | 🐛 4 | 🌐 Python | 📅 2023-08-25 - A command-line interface to generate textual and conversational datasets with LLMs.
@@ -110,7 +110,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 
 ## Prompts
 
-Prompts and conversations that are especially impressive with GPT-4. Check out [@f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 172,180 | 🐛 84 | 🌐 HTML | 📅 2026-10-03 and [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) ⭐ 1,633 | 🐛 18 | 🌐 Python | 📅 2026-02-23 as well.
+Prompts and conversations that are especially impressive with GPT-4. Check out [@f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 172,286 | 🐛 84 | 🌐 HTML | 📅 2026-10-03 and [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) ⭐ 1,634 | 🐛 18 | 🌐 Python | 📅 2026-02-23 as well.
 
 <details>
   <summary>Act as a pharmacologists</summary>
@@ -225,4 +225,4 @@ Contributions are always welcome! Read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._

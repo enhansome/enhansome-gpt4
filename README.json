@@ -73,7 +73,7 @@
                 "open_issues": 166,
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6207,
+                "stars": 6210,
                 "topics": [
                   "agent-monitoring",
                   "analytics",
@@ -228,7 +228,7 @@
                 "open_issues": 10,
                 "owner": "melih-unsal",
                 "repo": "DemoGPT",
-                "stars": 1906,
+                "stars": 1905,
                 "topics": [
                   "agent",
                   "agents",
@@ -386,37 +386,6 @@
             },
             {
               "node_type": "item",
-              "title": "Pair",
-              "description": "An iterative, stateful chat-like interface for programmers to pair programming with GPT-4.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "REPL environment for GPT pair programming",
-                "homepage": null,
-                "id": 616572456,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2024-09-29T02:08:27Z",
-                "open_issues": 4,
-                "owner": "jiggy-ai",
-                "repo": "pair",
-                "stars": 239,
-                "topics": [
-                  "chatgpt",
-                  "cli",
-                  "gpt-3",
-                  "gpt-4",
-                  "gpt4",
-                  "openai",
-                  "productivity",
-                  "python",
-                  "terminal"
-                ]
-              },
-              "first_seen": "2026-08-28T21:32:07.261Z"
-            },
-            {
-              "node_type": "item",
               "title": "GPT-Prompter",
               "description": "Browser extension to get a fast prompt for OpenAI's GPT-3, GPT-4 & ChatGPT API.",
               "children": [],
@@ -440,6 +409,37 @@
                   "firefox-addon",
                   "gpt3",
                   "gpt4"
+                ]
+              },
+              "first_seen": "2026-08-28T21:32:07.261Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Pair",
+              "description": "An iterative, stateful chat-like interface for programmers to pair programming with GPT-4.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "REPL environment for GPT pair programming",
+                "homepage": null,
+                "id": 616572456,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2024-09-29T02:08:27Z",
+                "open_issues": 4,
+                "owner": "jiggy-ai",
+                "repo": "pair",
+                "stars": 238,
+                "topics": [
+                  "chatgpt",
+                  "cli",
+                  "gpt-3",
+                  "gpt-4",
+                  "gpt4",
+                  "openai",
+                  "productivity",
+                  "python",
+                  "terminal"
                 ]
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T18:00:23.896Z",
+    "last_updated": "2026-10-09T17:33:37.126Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",

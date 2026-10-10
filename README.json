@@ -69,11 +69,11 @@
                 "id": 595832198,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T19:29:27Z",
-                "open_issues": 166,
+                "last_commit": "2026-10-10T02:57:56Z",
+                "open_issues": 168,
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6210,
+                "stars": 6212,
                 "topics": [
                   "agent-monitoring",
                   "analytics",
@@ -114,7 +114,7 @@
                 "open_issues": 497,
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5491,
+                "stars": 5493,
                 "topics": [
                   "chatgpt",
                   "claude",
@@ -146,7 +146,7 @@
                 "open_issues": 28,
                 "owner": "biobootloader",
                 "repo": "wolverine",
-                "stars": 5060,
+                "stars": 5059,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
@@ -167,7 +167,7 @@
                 "open_issues": 3,
                 "owner": "llm-workflow-engine",
                 "repo": "llm-workflow-engine",
-                "stars": 3715,
+                "stars": 3716,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -228,7 +228,7 @@
                 "open_issues": 10,
                 "owner": "melih-unsal",
                 "repo": "DemoGPT",
-                "stars": 1905,
+                "stars": 1906,
                 "topics": [
                   "agent",
                   "agents",
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T17:33:37.126Z",
+    "last_updated": "2026-10-10T16:23:34.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",

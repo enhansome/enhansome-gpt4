@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "mayooear",
                 "repo": "ai-pdf-chatbot-langchain",
-                "stars": 16583,
+                "stars": 16585,
                 "topics": [
                   "agents",
                   "ai",
@@ -73,7 +73,7 @@
                 "open_issues": 168,
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6215,
+                "stars": 6217,
                 "topics": [
                   "agent-monitoring",
                   "analytics",
@@ -114,7 +114,7 @@
                 "open_issues": 497,
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5498,
+                "stars": 5500,
                 "topics": [
                   "chatgpt",
                   "claude",
@@ -163,7 +163,7 @@
                 "id": 573822937,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-05T21:19:52Z",
+                "last_commit": "2026-10-13T01:58:24Z",
                 "open_issues": 3,
                 "owner": "llm-workflow-engine",
                 "repo": "llm-workflow-engine",
@@ -579,7 +579,7 @@
                 "open_issues": 1,
                 "owner": "citiususc",
                 "repo": "smarty-gpt",
-                "stars": 138,
+                "stars": 139,
                 "topics": [
                   "awesome-chatgpt-prompts",
                   "chatgpt",
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T20:25:59.512Z",
+    "last_updated": "2026-10-13T18:31:34.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",
@@ -747,7 +747,7 @@
       "open_issues": 13,
       "owner": "radi-cho",
       "repo": "awesome-gpt4",
-      "stars": 2228,
+      "stars": 2229,
       "topics": [
         "awesome",
         "awesome-list",

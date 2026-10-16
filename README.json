@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "mayooear",
                 "repo": "ai-pdf-chatbot-langchain",
-                "stars": 16582,
+                "stars": 16583,
                 "topics": [
                   "agents",
                   "ai",
@@ -70,10 +70,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-10T02:57:56Z",
-                "open_issues": 169,
+                "open_issues": 170,
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6223,
+                "stars": 6226,
                 "topics": [
                   "agent-monitoring",
                   "analytics",
@@ -114,7 +114,7 @@
                 "open_issues": 497,
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5504,
+                "stars": 5509,
                 "topics": [
                   "chatgpt",
                   "claude",
@@ -197,7 +197,7 @@
                 "open_issues": 41,
                 "owner": "anse-app",
                 "repo": "anse",
-                "stars": 1964,
+                "stars": 1965,
                 "topics": [
                   "azure-openai",
                   "chatgpt",
@@ -265,11 +265,11 @@
                 "id": 575751232,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-15T06:14:01Z",
-                "open_issues": 44,
+                "last_commit": "2026-10-16T06:31:52Z",
+                "open_issues": 45,
                 "owner": "Kav-K",
                 "repo": "GPTDiscord",
-                "stars": 1850,
+                "stars": 1851,
                 "topics": [
                   "artificial-intelligence",
                   "asyncio",
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T15:45:30.329Z",
+    "last_updated": "2026-10-16T15:34:39.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",

@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "mayooear",
                 "repo": "ai-pdf-chatbot-langchain",
-                "stars": 16582,
+                "stars": 16581,
                 "topics": [
                   "agents",
                   "ai",
@@ -69,8 +69,8 @@
                 "id": 595832198,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T17:34:04Z",
-                "open_issues": 173,
+                "last_commit": "2026-10-20T06:02:39Z",
+                "open_issues": 170,
                 "owner": "Helicone",
                 "repo": "helicone",
                 "stars": 6228,
@@ -114,7 +114,7 @@
                 "open_issues": 497,
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5512,
+                "stars": 5514,
                 "topics": [
                   "chatgpt",
                   "claude",
@@ -146,7 +146,7 @@
                 "open_issues": 28,
                 "owner": "biobootloader",
                 "repo": "wolverine",
-                "stars": 5058,
+                "stars": 5059,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
@@ -164,7 +164,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-14T02:42:10Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "llm-workflow-engine",
                 "repo": "llm-workflow-engine",
                 "stars": 3715,
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T17:47:09.018Z",
+    "last_updated": "2026-10-20T15:50:43.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",
@@ -747,7 +747,7 @@
       "open_issues": 13,
       "owner": "radi-cho",
       "repo": "awesome-gpt4",
-      "stars": 2227,
+      "stars": 2228,
       "topics": [
         "awesome",
         "awesome-list",

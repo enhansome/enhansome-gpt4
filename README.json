@@ -52,7 +52,7 @@
                 "open_issues": 104,
                 "owner": "nat",
                 "repo": "openplayground",
-                "stars": 6343,
+                "stars": 6345,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
@@ -70,10 +70,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-24T01:17:24Z",
-                "open_issues": 170,
+                "open_issues": 172,
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6235,
+                "stars": 6238,
                 "topics": [
                   "agent-monitoring",
                   "analytics",
@@ -114,7 +114,7 @@
                 "open_issues": 497,
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5520,
+                "stars": 5521,
                 "topics": [
                   "chatgpt",
                   "claude",
@@ -146,7 +146,7 @@
                 "open_issues": 28,
                 "owner": "biobootloader",
                 "repo": "wolverine",
-                "stars": 5058,
+                "stars": 5059,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T14:54:27.061Z",
+    "last_updated": "2026-10-25T15:03:49.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",
@@ -747,7 +747,7 @@
       "open_issues": 13,
       "owner": "radi-cho",
       "repo": "awesome-gpt4",
-      "stars": 2229,
+      "stars": 2230,
       "topics": [
         "awesome",
         "awesome-list",

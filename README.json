@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "mayooear",
                 "repo": "ai-pdf-chatbot-langchain",
-                "stars": 16582,
+                "stars": 16584,
                 "topics": [
                   "agents",
                   "ai",
@@ -52,7 +52,7 @@
                 "open_issues": 104,
                 "owner": "nat",
                 "repo": "openplayground",
-                "stars": 6345,
+                "stars": 6344,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
@@ -70,7 +70,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-28T15:59:52Z",
-                "open_issues": 179,
+                "open_issues": 181,
                 "owner": "Helicone",
                 "repo": "helicone",
                 "stars": 6248,
@@ -114,7 +114,7 @@
                 "open_issues": 497,
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5530,
+                "stars": 5531,
                 "topics": [
                   "chatgpt",
                   "claude",
@@ -164,10 +164,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-27T01:02:17Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "llm-workflow-engine",
                 "repo": "llm-workflow-engine",
-                "stars": 3714,
+                "stars": 3716,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -228,7 +228,7 @@
                 "open_issues": 9,
                 "owner": "melih-unsal",
                 "repo": "DemoGPT",
-                "stars": 1905,
+                "stars": 1906,
                 "topics": [
                   "agent",
                   "agents",
@@ -266,7 +266,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-18T18:01:03Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "Kav-K",
                 "repo": "GPTDiscord",
                 "stars": 1850,
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T17:14:44.473Z",
+    "last_updated": "2026-10-31T16:20:02.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",

@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "mayooear",
                 "repo": "ai-pdf-chatbot-langchain",
-                "stars": 16584,
+                "stars": 16582,
                 "topics": [
                   "agents",
                   "ai",
@@ -73,7 +73,7 @@
                 "open_issues": 188,
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6257,
+                "stars": 6263,
                 "topics": [
                   "agent-monitoring",
                   "analytics",
@@ -114,7 +114,7 @@
                 "open_issues": 497,
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5537,
+                "stars": 5538,
                 "topics": [
                   "chatgpt",
                   "claude",
@@ -197,7 +197,7 @@
                 "open_issues": 41,
                 "owner": "anse-app",
                 "repo": "anse",
-                "stars": 1966,
+                "stars": 1965,
                 "topics": [
                   "azure-openai",
                   "chatgpt",
@@ -579,7 +579,7 @@
                 "open_issues": 1,
                 "owner": "citiususc",
                 "repo": "smarty-gpt",
-                "stars": 138,
+                "stars": 137,
                 "topics": [
                   "awesome-chatgpt-prompts",
                   "chatgpt",
@@ -655,7 +655,7 @@
                 "open_issues": 2,
                 "owner": "Electric-Hydrogen",
                 "repo": "GPTBot",
-                "stars": 69,
+                "stars": 68,
                 "topics": [
                   "bot",
                   "chatgpt",
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T18:40:04.895Z",
+    "last_updated": "2026-11-04T18:52:52.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",

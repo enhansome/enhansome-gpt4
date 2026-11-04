@@ -33,11 +33,11 @@ Impactful scientific papers about GPT-4 and its predecessors.
 
 * [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) ⚠️ Archived - GPT4 & LangChain Chatbot for large PDF docs.
 * [openplayground](https://github.com/nat/openplayground) ⭐ 6,346 | 🐛 104 | 🌐 TypeScript | 📅 2026-02-06 - An LLM playground you can run on your laptop.
-* [helicone](https://github.com/Helicone/helicone) ⭐ 6,257 | 🐛 188 | 🌐 TypeScript | 📅 2026-10-28 - GPT4 Monitoring and Observability.
-* [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) ⭐ 5,537 | 🐛 497 | 🌐 JavaScript | 📅 2026-10-10 - Chat with the notes in your Obsidian vault using OpenAI GPT-4.
+* [helicone](https://github.com/Helicone/helicone) ⭐ 6,263 | 🐛 188 | 🌐 TypeScript | 📅 2026-10-28 - GPT4 Monitoring and Observability.
+* [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) ⭐ 5,538 | 🐛 497 | 🌐 JavaScript | 📅 2026-10-10 - Chat with the notes in your Obsidian vault using OpenAI GPT-4.
 * [Wolverine](https://github.com/biobootloader/wolverine) ⭐ 5,057 | 🐛 28 | 🌐 Python | 📅 2024-03-08 - Run Python scripts, and when they crash, GPT-4 edits them and explains what went wrong.
 * [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) ⭐ 3,717 | 🐛 3 | 🌐 Python | 📅 2026-11-02 - API for interacting with ChatGPT and GPT4 using Python and from Shell.
-* [Anse](https://github.com/anse-app/anse) ⭐ 1,966 | 🐛 41 | 🌐 TypeScript | 📅 2025-05-12 - Supercharged experience for ChatGPT, DALL-E, and Stable Diffusion.
+* [Anse](https://github.com/anse-app/anse) ⭐ 1,965 | 🐛 41 | 🌐 TypeScript | 📅 2025-05-12 - Supercharged experience for ChatGPT, DALL-E, and Stable Diffusion.
 * [DemoGPT](https://github.com/melih-unsal/DemoGPT) ⭐ 1,905 | 🐛 9 | 🌐 Python | 📅 2026-04-01 - DemoGPT enables you to create quick demos by just using prompts.
 * [GPTDiscord](https://github.com/Kav-K/GPTDiscord) ⭐ 1,851 | 🐛 44 | 🌐 Python | 📅 2026-11-01 - A full OpenAI integration for Discord with multi-modal chat and infinite-length conversations.
 * [gpt-voice-conversation-chatbot](https://github.com/Adri6336/gpt-voice-conversation-chatbot) ⭐ 302 | 🐛 6 | 🌐 Python | 📅 2024-05-05 - Conversational GPT-4 bot that has memory, ElevenLabs/Google TTS, voice-chat/CLI options, customization, and is not token-limited.
@@ -49,7 +49,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 * [ChatGPTify](https://github.com/idilsulo/ChatGPTify) ⭐ 204 | 🐛 3 | 🌐 Python | 📅 2024-01-20 - Spotify playlist generator via ChatGPT (and GPT-4).
 * [promptlib](https://github.com/jmpaz/promptlib/) ⭐ 193 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-08-08 - A collection of prompts for use with GPT-4 via ChatGPT, OpenAI API w/ Gradio frontend.
 * [botbots](https://github.com/radi-cho/botbots) ⭐ 164 | 🐛 1 | 📅 2023-04-01 - A dataset of dialogues between two `gpt-3.5-turbo` instances with system messages written by GPT-4.
-* [Smarty GPT](https://github.com/citiususc/Smarty-GPT) ⭐ 138 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-06-11 - a wrapper of prompts and contexts that supports several models, including GPT4.
+* [Smarty GPT](https://github.com/citiususc/Smarty-GPT) ⭐ 137 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-06-11 - a wrapper of prompts and contexts that supports several models, including GPT4.
 * [StockGPT](https://github.com/d3n7/StockGPT) ⭐ 123 | 🐛 0 | 🌐 Python | 📅 2023-04-24 - Primitive technique to predict stock movements with GPT-4 or 3.5.
 * [MusicGPT](https://github.com/d3n7/GPT-4-To-MIDI) ⭐ 70 | 🐛 3 | 🌐 Python | 📅 2024-05-21 - Make polyphonic music in the form of MIDI files with GPT-4 or 3.5.
 * [GPTBot](https://github.com/LIFTE-H2/GPTBot) ⚠️ Archived - A fully serverless Slack bot with GPT-4 support and full conversation mode.
@@ -110,7 +110,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 
 ## Prompts
 
-Prompts and conversations that are especially impressive with GPT-4. Check out [@f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 175,709 | 🐛 80 | 🌐 MDX | 📅 2026-11-03 and [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) ⭐ 1,646 | 🐛 24 | 🌐 Python | 📅 2026-02-23 as well.
+Prompts and conversations that are especially impressive with GPT-4. Check out [@f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 175,799 | 🐛 80 | 🌐 MDX | 📅 2026-11-04 and [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) ⭐ 1,647 | 🐛 24 | 🌐 Python | 📅 2026-02-23 as well.
 
 <details>
   <summary>Act as a pharmacologists</summary>
@@ -225,4 +225,4 @@ Contributions are always welcome! Read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._

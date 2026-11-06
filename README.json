@@ -70,10 +70,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-28T15:59:52Z",
-                "open_issues": 188,
+                "open_issues": 189,
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6268,
+                "stars": 6271,
                 "topics": [
                   "agent-monitoring",
                   "analytics",
@@ -225,7 +225,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-04-01T12:30:12Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "melih-unsal",
                 "repo": "DemoGPT",
                 "stars": 1905,
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T19:02:54.343Z",
+    "last_updated": "2026-11-06T18:31:18.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",

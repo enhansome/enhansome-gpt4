@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "mayooear",
                 "repo": "ai-pdf-chatbot-langchain",
-                "stars": 16584,
+                "stars": 16585,
                 "topics": [
                   "agents",
                   "ai",
@@ -52,7 +52,7 @@
                 "open_issues": 104,
                 "owner": "nat",
                 "repo": "openplayground",
-                "stars": 6347,
+                "stars": 6342,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
@@ -69,11 +69,11 @@
                 "id": 595832198,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T18:03:11Z",
+                "last_commit": "2026-11-12T06:58:00Z",
                 "open_issues": 193,
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6277,
+                "stars": 6279,
                 "topics": [
                   "agent-monitoring",
                   "analytics",
@@ -114,7 +114,7 @@
                 "open_issues": 497,
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5554,
+                "stars": 5556,
                 "topics": [
                   "chatgpt",
                   "claude",
@@ -146,7 +146,7 @@
                 "open_issues": 28,
                 "owner": "biobootloader",
                 "repo": "wolverine",
-                "stars": 5057,
+                "stars": 5055,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
@@ -266,10 +266,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-01T23:30:03Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "Kav-K",
                 "repo": "GPTDiscord",
-                "stars": 1851,
+                "stars": 1852,
                 "topics": [
                   "artificial-intelligence",
                   "asyncio",
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T18:53:00.553Z",
+    "last_updated": "2026-11-12T19:09:49.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",

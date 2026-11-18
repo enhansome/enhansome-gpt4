@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "mayooear",
                 "repo": "ai-pdf-chatbot-langchain",
-                "stars": 16580,
+                "stars": 16579,
                 "topics": [
                   "agents",
                   "ai",
@@ -52,7 +52,7 @@
                 "open_issues": 104,
                 "owner": "nat",
                 "repo": "openplayground",
-                "stars": 6343,
+                "stars": 6342,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
@@ -69,11 +69,11 @@
                 "id": 595832198,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T00:37:44Z",
+                "last_commit": "2026-11-17T22:26:36Z",
                 "open_issues": 194,
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6286,
+                "stars": 6288,
                 "topics": [
                   "agent-monitoring",
                   "analytics",
@@ -146,7 +146,7 @@
                 "open_issues": 28,
                 "owner": "biobootloader",
                 "repo": "wolverine",
-                "stars": 5055,
+                "stars": 5054,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
@@ -228,7 +228,7 @@
                 "open_issues": 10,
                 "owner": "melih-unsal",
                 "repo": "DemoGPT",
-                "stars": 1908,
+                "stars": 1906,
                 "topics": [
                   "agent",
                   "agents",
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T20:03:16.024Z",
+    "last_updated": "2026-11-18T19:37:57.634Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",

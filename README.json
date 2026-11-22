@@ -70,10 +70,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-17T22:26:36Z",
-                "open_issues": 191,
+                "open_issues": 192,
                 "owner": "Helicone",
                 "repo": "helicone",
-                "stars": 6292,
+                "stars": 6293,
                 "topics": [
                   "agent-monitoring",
                   "analytics",
@@ -110,11 +110,11 @@
                 "id": 582432706,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T16:59:04Z",
+                "last_commit": "2026-11-21T18:25:47Z",
                 "open_issues": 498,
                 "owner": "brianpetro",
                 "repo": "obsidian-smart-connections",
-                "stars": 5565,
+                "stars": 5568,
                 "topics": [
                   "chatgpt",
                   "claude",
@@ -146,7 +146,7 @@
                 "open_issues": 28,
                 "owner": "biobootloader",
                 "repo": "wolverine",
-                "stars": 5052,
+                "stars": 5053,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
@@ -197,7 +197,7 @@
                 "open_issues": 41,
                 "owner": "anse-app",
                 "repo": "anse",
-                "stars": 1967,
+                "stars": 1966,
                 "topics": [
                   "azure-openai",
                   "chatgpt",
@@ -228,7 +228,7 @@
                 "open_issues": 10,
                 "owner": "melih-unsal",
                 "repo": "DemoGPT",
-                "stars": 1906,
+                "stars": 1905,
                 "topics": [
                   "agent",
                   "agents",
@@ -266,7 +266,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-01T23:30:03Z",
-                "open_issues": 47,
+                "open_issues": 48,
                 "owner": "Kav-K",
                 "repo": "GPTDiscord",
                 "stars": 1852,
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T18:14:44.079Z",
+    "last_updated": "2026-11-22T18:39:50.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",
@@ -747,7 +747,7 @@
       "open_issues": 13,
       "owner": "radi-cho",
       "repo": "awesome-gpt4",
-      "stars": 2233,
+      "stars": 2234,
       "topics": [
         "awesome",
         "awesome-list",

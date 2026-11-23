@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "mayooear",
                 "repo": "ai-pdf-chatbot-langchain",
-                "stars": 16578,
+                "stars": 16577,
                 "topics": [
                   "agents",
                   "ai",
@@ -52,7 +52,7 @@
                 "open_issues": 104,
                 "owner": "nat",
                 "repo": "openplayground",
-                "stars": 6342,
+                "stars": 6343,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:07.261Z"
@@ -70,7 +70,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-17T22:26:36Z",
-                "open_issues": 192,
+                "open_issues": 194,
                 "owner": "Helicone",
                 "repo": "helicone",
                 "stars": 6293,
@@ -167,7 +167,7 @@
                 "open_issues": 4,
                 "owner": "llm-workflow-engine",
                 "repo": "llm-workflow-engine",
-                "stars": 3714,
+                "stars": 3713,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -228,7 +228,7 @@
                 "open_issues": 10,
                 "owner": "melih-unsal",
                 "repo": "DemoGPT",
-                "stars": 1905,
+                "stars": 1906,
                 "topics": [
                   "agent",
                   "agents",
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T18:39:50.223Z",
+    "last_updated": "2026-11-23T22:55:49.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",
@@ -747,7 +747,7 @@
       "open_issues": 13,
       "owner": "radi-cho",
       "repo": "awesome-gpt4",
-      "stars": 2234,
+      "stars": 2233,
       "topics": [
         "awesome",
         "awesome-list",
